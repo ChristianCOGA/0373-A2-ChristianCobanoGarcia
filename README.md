@@ -35,7 +35,7 @@
 - Un navegador web interpreta y permite a los usuarios interactuar con la página web, usualmente divido en dos partes:
     - **FrontEnd** : Parte visual o gráfica que ve el usuario final que navega por la página web.
     - **BackEnd** : Parte operada por un técnico que se encarga de configurar y personalizar el código para su resutado final hacía el usuario final.
-    - 
+  
 ![ESQUEMA](Estructura2.jpg "Navegador Web")
 
 *Figura 2 : Esquema de peticiones HTML*
