@@ -37,4 +37,5 @@
     - **BackEnd** : Parte operada por un técnico que se encarga de configurar y personalizar el código para su resutado final hacía el usuario final.
     - 
 ![ESQUEMA](Estructura2.jpg "Navegador Web")
+
 *Figura 2 : Esquema de peticiones HTML*
